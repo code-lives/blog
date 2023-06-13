@@ -49,9 +49,9 @@
     
     <tags>
       
-      <tag>Laravel</tag>
-      
       <tag>PHP</tag>
+      
+      <tag>Laravel</tag>
       
       <tag>Trait</tag>
       
@@ -80,9 +80,9 @@
     
     <tags>
       
-      <tag>PHP</tag>
-      
       <tag>Docker</tag>
+      
+      <tag>PHP</tag>
       
       <tag>Go</tag>
       
@@ -93,7 +93,7 @@
   
   
   <entry>
-    <title>Dockerfile生成pPHP7.4+Nginx</title>
+    <title>Dockerfile生成PHP7.4+Nginx</title>
     <link href="/2023/05/04/dockerfiles/"/>
     <url>/2023/05/04/dockerfiles/</url>
     
@@ -103,9 +103,9 @@
     
     <tags>
       
-      <tag>PHP</tag>
-      
       <tag>Docker</tag>
+      
+      <tag>PHP</tag>
       
     </tags>
     
